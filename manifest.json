@@ -1,0 +1,37 @@
+{
+    "name": "innoHCM",
+    "short_name": "innoHCM",
+    "theme_color": "#070333",
+    "background_color": "#070333",
+    "display": "fullscreen",
+    "scope": "/innohcm/",
+    "start_url": "index.html",
+    "icons": [
+        {
+          "src": "favicon72.png",
+          "type": "image/png",
+          "sizes": "72x72"
+        },
+        {
+          "src": "favicon96.png",
+            "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "favicon144.png",
+            "type": "image/png",
+          "sizes": "144x144"
+        },
+        {
+          "src": "favicon192.png",
+            "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "favicon512.png",
+            "type": "image/png",
+          "sizes": "512x512"
+        }
+    ]
+  }
+  
