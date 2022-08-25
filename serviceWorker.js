@@ -1,4 +1,4 @@
-const cacheVersion = "v2.03";
+const cacheVersion = "v2.04";
 const filesToCache = [
   '/innohcm/',
   './index.html',
